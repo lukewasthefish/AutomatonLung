@@ -1,0 +1,164 @@
+/* ========== Editor Themes Plugin ==========*/
+/*            Auto Generated Code            */
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+/*v0.65*/
+
+.TabWindowBackground
+{
+	background-color: rgba(15, 15, 15, 1);
+}
+
+.ScrollViewAlt
+{
+	background-color: rgba(15, 15, 15, 1);
+}
+
+.label
+{
+	background-color: rgba(15, 15, 15, 1);
+}
+
+.ProjectBrowserTopBarBg
+{
+	background-color: rgba(15, 15, 15, 1);
+}
+
+.ProjectBrowserBottomBarBg
+{
+	background-color: rgba(15, 15, 15, 1);
+}
+
+.dockHeader
+{
+	background-color: rgba(48, 48, 48, 1);
+}
+
+.TV LineBold
+{
+	background-color: rgba(48, 48, 48, 1);
+}
+
+.ToolbarDropDownToogleRight
+{
+	background-color: rgba(27, 27, 27, 1);
+}
+
+.ToolbarPopupLeft
+{
+	background-color: rgba(27, 27, 27, 1);
+}
+
+.ToolbarPopup
+{
+	background-color: rgba(27, 27, 27, 1);
+}
+
+.toolbarbutton
+{
+	background-color: rgba(36, 36, 36, 1);
+}
+
+.PreToolbar
+{
+	background-color: rgba(27, 27, 27, 1);
+}
+
+.AppToolbar
+{
+	background-color: rgba(27, 27, 27, 1);
+}
+
+.GameViewBackground
+{
+	background-color: rgba(27, 27, 27, 1);
+}
+
+.CN EntryInfoSmall
+{
+	background-color: rgba(27, 27, 27, 1);
+}
+
+.Toolbar
+{
+	background-color: rgba(27, 27, 27, 1);
+}
+
+.toolbarbutton
+{
+	background-color: rgba(27, 27, 27, 1);
+}
+
+.toolbarbuttonRight
+{
+	background-color: rgba(27, 27, 27, 1);
+}
+
+.ProjectBrowserIconAreaBg
+{
+	background-color: rgba(27, 27, 27, 1);
+}
+
+.dragtab-label
+{
+	background-color: rgba(123, 123, 123, 0.4980392);
+}
+
+.AppCommandLeft
+{
+	background-color: rgba(29, 29, 29, 1);
+}
+
+.AppCommandMid
+{
+	background-color: rgba(29, 29, 29, 1);
+}
+
+.AppCommand
+{
+	background-color: rgba(29, 29, 29, 1);
+}
+
+.AppToolbarButtonLeft
+{
+	background-color: rgba(29, 29, 29, 1);
+}
+
+.AppToolbarButtonRight
+{
+	background-color: rgba(29, 29, 29, 1);
+}
+
+.DropDown
+{
+	background-color: rgba(29, 29, 29, 1);
+}
+
+.SceneTopBarBg
+{
+	background-color: rgba(81, 81, 81, 1);
+}
+
+.MiniPopup
+{
+	background-color: rgba(81, 81, 81, 1);
+}
+
+.TV Selection
+{
+	background-color: rgba(81, 81, 81, 1);
+}
+
+.ExposablePopupMenu
+{
+	background-color: rgba(81, 81, 81, 1);
+}
+
+.minibutton
+{
+	background-color: rgba(81, 81, 81, 1);
+}
+
+. ToolbarSearchTextField
+{
+	background-color: rgba(81, 81, 81, 1);
+}

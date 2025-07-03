@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bsofp25j38rc8"
+path="res://.godot/imported/TownE 2.mp3-09ef64b3d1203fd0fc6a6f31edb40a4e.mp3str"
+
+[deps]
+
+source_file="res://AutomatonLungPC/Assets/Audio/Music/TownE 2.mp3"
+dest_files=["res://.godot/imported/TownE 2.mp3-09ef64b3d1203fd0fc6a6f31edb40a4e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

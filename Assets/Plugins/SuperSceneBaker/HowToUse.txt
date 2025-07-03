@@ -1,0 +1,43 @@
+*********************************
+** Super Scene Baker for Unity **
+*********************************
+Super Scene Baker is an editor tool to easily automate the process of lightmaps, reflection probes, light probes, static occlusion and/or navmesh baking on multiple scenes.
+Unity Forum Thread: https://forum.unity.com/threads/released-super-scene-baker.503799/
+
+
+***********************
+Why Super Scene Baker?
+***********************
+You have multiple scenes to maintain?
+Before exporting a new build, you want to make sure all the baked data of your scenes are up-to-date?
+Instead of opening every scenes to check them, use Super Scene Baker to automate this process in one click! You'll never have a build with broken lightmaps anymore!
+
+
+***********************
+How to use it?
+***********************
+Check this video for see the plugin in action: https://youtu.be/KMDwFoaFHH8
+
+* Step 1: Open Super Scene Baker
+Click on the "Tool/Super Scene Baker" menu on the Unity toolbar
+
+* Step 2: Select the scenes you want to bake
+Drag and drop from you project browser the scene on the "Scenes List" property of the window
+Or simply click on the "Override with scenes in build" to automatically select the scenes from the build settings (with Unity 5.5 or above).
+You can clear the scene list by clicking on the "Clear list" button.
+
+* Step 3: Choose the operations to perform
+The lighting (lightmaps, AO...) is automatically baked.
+You can also choose to compute other data during the process:
+Check "Compute Static Occlusion" to also compute the static Occlusion Culling data.
+Check "Build NavMesh" to also compute the static Navigation data.
+
+* Step 4: Press Bake
+Press the "Bake" button to launch the process.
+Super Scene Baker will open, bake and save each scenes. Take a coffee during the process, because you must let it finish (like how it works when you ask Unity to build lightmaps).
+You will have access to information in realtime about the progression of the process.
+If for some reason you want to abort the process, click on the "Cancel" button at any time.
+
+
+If you are happy with the plugin, please rate it in the Asset Store!
+

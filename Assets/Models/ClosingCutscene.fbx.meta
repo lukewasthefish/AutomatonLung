@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: 70bdca8b55985df45bde73058df26f5c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: Armature.002
+    100006: Bone.001.L
+    100008: Bone.001.L 1
+    100010: Bone.001.L 2
+    100012: Bone.001.R
+    100014: Bone.001.R 1
+    100016: Bone.001.R 2
+    100018: Bone.002
+    100020: Bone.002 1
+    100022: Bone.002 2
+    100024: Bone.002.L
+    100026: Bone.002.L 1
+    100028: Bone.002.L 2
+    100030: Bone.002.L_end
+    100032: Bone.002.L_end 1
+    100034: Bone.002.L_end 2
+    100036: Bone.002.R
+    100038: Bone.002.R 1
+    100040: Bone.002.R 2
+    100042: Bone.002.R_end
+    100044: Bone.002.R_end 1
+    100046: Bone.002.R_end 2
+    100048: Bone.003
+    100050: Bone.003 1
+    100052: Bone.003 2
+    100054: Bone.004
+    100056: Bone.004 1
+    100058: Bone.004 2
+    100060: Bone.005
+    100062: Bone.005 1
+    100064: Bone.005 2
+    100066: Bone.005_end
+    100068: Bone.005_end 1
+    100070: Bone.005_end 2
+    100072: Bone.006.L
+    100074: Bone.006.L 1
+    100076: Bone.006.L 2
+    100078: Bone.006.R
+    100080: Bone.006.R 1
+    100082: Bone.006.R 2
+    100084: Bone.007.L
+    100086: Bone.007.L 1
+    100088: Bone.007.L 2
+    100090: Bone.007.R
+    100092: Bone.007.R 1
+    100094: Bone.007.R 2
+    100096: Bone.008.L
+    100098: Bone.008.L 1
+    100100: Bone.008.L 2
+    100102: Bone.008.R
+    100104: Bone.008.R 1
+    100106: Bone.008.R 2
+    100108: Bone.009.L
+    100110: Bone.009.L 1
+    100112: Bone.009.L 2
+    100114: Bone.009.L_end
+    100116: Bone.009.L_end 1
+    100118: Bone.009.L_end 2
+    100120: Bone.009.R
+    100122: Bone.009.R 1
+    100124: Bone.009.R 2
+    100126: Bone.009.R_end
+    100128: Bone.009.R_end 1
+    100130: Bone.009.R_end 2
+    100132: Bone.L
+    100134: Bone.L 1
+    100136: Bone.L 2
+    100138: Bone.R
+    100140: Bone.R 1
+    100142: Bone.R 2
+    100144: Camera
+    100146: Camera.001
+    100148: Camera.002
+    100150: Camera.003
+    100152: //RootNode
+    100154: main.001
+    100156: main.002
+    100158: main.003
+    100160: Camera.004
+    100162: Camera.005
+    100164: Camera.006
+    100166: Camera.007
+    100168: Camera.008
+    100170: Camera.009
+    100172: Camera.010
+    100174: Camera.011
+    100176: Camera.012
+    100178: Camera.013
+    100180: Camera.014
+    100182: Camera.015
+    100184: Camera.016
+    400000: Armature
+    400002: Armature.001
+    400004: Armature.002
+    400006: Bone.001.L
+    400008: Bone.001.L 1
+    400010: Bone.001.L 2
+    400012: Bone.001.R
+    400014: Bone.001.R 1
+    400016: Bone.001.R 2
+    400018: Bone.002
+    400020: Bone.002 1
+    400022: Bone.002 2
+    400024: Bone.002.L
+    400026: Bone.002.L 1
+    400028: Bone.002.L 2
+    400030: Bone.002.L_end
+    400032: Bone.002.L_end 1
+    400034: Bone.002.L_end 2
+    400036: Bone.002.R
+    400038: Bone.002.R 1
+    400040: Bone.002.R 2
+    400042: Bone.002.R_end
+    400044: Bone.002.R_end 1
+    400046: Bone.002.R_end 2
+    400048: Bone.003
+    400050: Bone.003 1
+    400052: Bone.003 2
+    400054: Bone.004
+    400056: Bone.004 1
+    400058: Bone.004 2
+    400060: Bone.005
+    400062: Bone.005 1
+    400064: Bone.005 2
+    400066: Bone.005_end
+    400068: Bone.005_end 1
+    400070: Bone.005_end 2
+    400072: Bone.006.L
+    400074: Bone.006.L 1
+    400076: Bone.006.L 2
+    400078: Bone.006.R
+    400080: Bone.006.R 1
+    400082: Bone.006.R 2
+    400084: Bone.007.L
+    400086: Bone.007.L 1
+    400088: Bone.007.L 2
+    400090: Bone.007.R
+    400092: Bone.007.R 1
+    400094: Bone.007.R 2
+    400096: Bone.008.L
+    400098: Bone.008.L 1
+    400100: Bone.008.L 2
+    400102: Bone.008.R
+    400104: Bone.008.R 1
+    400106: Bone.008.R 2
+    400108: Bone.009.L
+    400110: Bone.009.L 1
+    400112: Bone.009.L 2
+    400114: Bone.009.L_end
+    400116: Bone.009.L_end 1
+    400118: Bone.009.L_end 2
+    400120: Bone.009.R
+    400122: Bone.009.R 1
+    400124: Bone.009.R 2
+    400126: Bone.009.R_end
+    400128: Bone.009.R_end 1
+    400130: Bone.009.R_end 2
+    400132: Bone.L
+    400134: Bone.L 1
+    400136: Bone.L 2
+    400138: Bone.R
+    400140: Bone.R 1
+    400142: Bone.R 2
+    400144: Camera
+    400146: Camera.001
+    400148: Camera.002
+    400150: Camera.003
+    400152: //RootNode
+    400154: main.001
+    400156: main.002
+    400158: main.003
+    400160: Camera.004
+    400162: Camera.005
+    400164: Camera.006
+    400166: Camera.007
+    400168: Camera.008
+    400170: Camera.009
+    400172: Camera.010
+    400174: Camera.011
+    400176: Camera.012
+    400178: Camera.013
+    400180: Camera.014
+    400182: Camera.015
+    400184: Camera.016
+    2300000: main.001
+    2300002: main.002
+    2300004: main.003
+    3300000: main.001
+    3300002: main.002
+    3300004: main.003
+    4300000: main.003
+    4300002: main.001
+    4300004: main.002
+    7400000: Armature|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400002: Armature|Camera.001Action
+    7400004: Armature|Camera.002Action
+    7400006: Armature|CameraAction
+    7400008: Armature|UmaClosingCutscene
+    7400010: Armature|UmaClosingCutscene.001
+    7400012: Armature|UmaClosingCutscene.002
+    7400014: Camera|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400016: Camera|Camera.001Action
+    7400018: Camera|Camera.002Action
+    7400020: Camera|CameraAction
+    7400022: Armature.001|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400024: Armature.001|Camera.001Action
+    7400026: Armature.001|Camera.002Action
+    7400028: Armature.001|CameraAction
+    7400030: Armature.001|UmaClosingCutscene
+    7400032: Armature.001|UmaClosingCutscene.001
+    7400034: Armature.001|UmaClosingCutscene.002
+    7400036: Armature.002|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400038: Armature.002|Camera.001Action
+    7400040: Armature.002|Camera.002Action
+    7400042: Armature.002|CameraAction
+    7400044: Armature.002|UmaClosingCutscene
+    7400046: Armature.002|UmaClosingCutscene.001
+    7400048: Armature.002|UmaClosingCutscene.002
+    7400050: Camera.001|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400052: Camera.001|Camera.001Action
+    7400054: Camera.001|Camera.002Action
+    7400056: Camera.001|CameraAction
+    7400058: Camera.002|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400060: Camera.002|Camera.001Action
+    7400062: Camera.002|Camera.002Action
+    7400064: Camera.002|CameraAction
+    7400066: Armature|Camera.003Action
+    7400068: Armature|Camera.004Action
+    7400070: Armature|Camera.005Action
+    7400072: Armature|Camera.006Action
+    7400074: Armature|Camera.007Action
+    7400076: Armature|Camera.008Action
+    7400078: Armature|Camera.009Action
+    7400080: Armature|Camera.010Action
+    7400082: Armature|Camera.011Action
+    7400084: Armature|Camera.012Action
+    7400086: Armature|Camera.013Action
+    7400088: Armature|Camera.014Action
+    7400090: Armature|Camera.016Action
+    7400092: Camera|Camera.003Action
+    7400094: Camera|Camera.004Action
+    7400096: Camera|Camera.005Action
+    7400098: Camera|Camera.006Action
+    7400100: Camera|Camera.007Action
+    7400102: Camera|Camera.008Action
+    7400104: Camera|Camera.009Action
+    7400106: Camera|Camera.010Action
+    7400108: Camera|Camera.011Action
+    7400110: Camera|Camera.012Action
+    7400112: Camera|Camera.013Action
+    7400114: Camera|Camera.014Action
+    7400116: Camera|Camera.016Action
+    7400118: Armature.001|Camera.003Action
+    7400120: Armature.001|Camera.004Action
+    7400122: Armature.001|Camera.005Action
+    7400124: Armature.001|Camera.006Action
+    7400126: Armature.001|Camera.007Action
+    7400128: Armature.001|Camera.008Action
+    7400130: Armature.001|Camera.009Action
+    7400132: Armature.001|Camera.010Action
+    7400134: Armature.001|Camera.011Action
+    7400136: Armature.001|Camera.012Action
+    7400138: Armature.001|Camera.013Action
+    7400140: Armature.001|Camera.014Action
+    7400142: Armature.001|Camera.016Action
+    7400144: Armature.002|Camera.003Action
+    7400146: Armature.002|Camera.004Action
+    7400148: Armature.002|Camera.005Action
+    7400150: Armature.002|Camera.006Action
+    7400152: Armature.002|Camera.007Action
+    7400154: Armature.002|Camera.008Action
+    7400156: Armature.002|Camera.009Action
+    7400158: Armature.002|Camera.010Action
+    7400160: Armature.002|Camera.011Action
+    7400162: Armature.002|Camera.012Action
+    7400164: Armature.002|Camera.013Action
+    7400166: Armature.002|Camera.014Action
+    7400168: Armature.002|Camera.016Action
+    7400170: Camera.001|Camera.003Action
+    7400172: Camera.001|Camera.004Action
+    7400174: Camera.001|Camera.005Action
+    7400176: Camera.001|Camera.006Action
+    7400178: Camera.001|Camera.007Action
+    7400180: Camera.001|Camera.008Action
+    7400182: Camera.001|Camera.009Action
+    7400184: Camera.001|Camera.010Action
+    7400186: Camera.001|Camera.011Action
+    7400188: Camera.001|Camera.012Action
+    7400190: Camera.001|Camera.013Action
+    7400192: Camera.001|Camera.014Action
+    7400194: Camera.001|Camera.016Action
+    7400196: Camera.002|Camera.003Action
+    7400198: Camera.002|Camera.004Action
+    7400200: Camera.002|Camera.005Action
+    7400202: Camera.002|Camera.006Action
+    7400204: Camera.002|Camera.007Action
+    7400206: Camera.002|Camera.008Action
+    7400208: Camera.002|Camera.009Action
+    7400210: Camera.002|Camera.010Action
+    7400212: Camera.002|Camera.011Action
+    7400214: Camera.002|Camera.012Action
+    7400216: Camera.002|Camera.013Action
+    7400218: Camera.002|Camera.014Action
+    7400220: Camera.002|Camera.016Action
+    7400222: Camera.003|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400224: Camera.003|Camera.001Action
+    7400226: Camera.003|Camera.002Action
+    7400228: Camera.003|Camera.003Action
+    7400230: Camera.003|Camera.004Action
+    7400232: Camera.003|Camera.005Action
+    7400234: Camera.003|Camera.006Action
+    7400236: Camera.003|Camera.007Action
+    7400238: Camera.003|Camera.008Action
+    7400240: Camera.003|Camera.009Action
+    7400242: Camera.003|Camera.010Action
+    7400244: Camera.003|Camera.011Action
+    7400246: Camera.003|Camera.012Action
+    7400248: Camera.003|Camera.013Action
+    7400250: Camera.003|Camera.014Action
+    7400252: Camera.003|Camera.016Action
+    7400254: Camera.003|CameraAction
+    7400256: Camera.004|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400258: Camera.004|Camera.001Action
+    7400260: Camera.004|Camera.002Action
+    7400262: Camera.004|Camera.003Action
+    7400264: Camera.004|Camera.004Action
+    7400266: Camera.004|Camera.005Action
+    7400268: Camera.004|Camera.006Action
+    7400270: Camera.004|Camera.007Action
+    7400272: Camera.004|Camera.008Action
+    7400274: Camera.004|Camera.009Action
+    7400276: Camera.004|Camera.010Action
+    7400278: Camera.004|Camera.011Action
+    7400280: Camera.004|Camera.012Action
+    7400282: Camera.004|Camera.013Action
+    7400284: Camera.004|Camera.014Action
+    7400286: Camera.004|Camera.016Action
+    7400288: Camera.004|CameraAction
+    7400290: Camera.005|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400292: Camera.005|Camera.001Action
+    7400294: Camera.005|Camera.002Action
+    7400296: Camera.005|Camera.003Action
+    7400298: Camera.005|Camera.004Action
+    7400300: Camera.005|Camera.005Action
+    7400302: Camera.005|Camera.006Action
+    7400304: Camera.005|Camera.007Action
+    7400306: Camera.005|Camera.008Action
+    7400308: Camera.005|Camera.009Action
+    7400310: Camera.005|Camera.010Action
+    7400312: Camera.005|Camera.011Action
+    7400314: Camera.005|Camera.012Action
+    7400316: Camera.005|Camera.013Action
+    7400318: Camera.005|Camera.014Action
+    7400320: Camera.005|Camera.016Action
+    7400322: Camera.005|CameraAction
+    7400324: Camera.006|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400326: Camera.006|Camera.001Action
+    7400328: Camera.006|Camera.002Action
+    7400330: Camera.006|Camera.003Action
+    7400332: Camera.006|Camera.004Action
+    7400334: Camera.006|Camera.005Action
+    7400336: Camera.006|Camera.006Action
+    7400338: Camera.006|Camera.007Action
+    7400340: Camera.006|Camera.008Action
+    7400342: Camera.006|Camera.009Action
+    7400344: Camera.006|Camera.010Action
+    7400346: Camera.006|Camera.011Action
+    7400348: Camera.006|Camera.012Action
+    7400350: Camera.006|Camera.013Action
+    7400352: Camera.006|Camera.014Action
+    7400354: Camera.006|Camera.016Action
+    7400356: Camera.006|CameraAction
+    7400358: Camera.007|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400360: Camera.007|Camera.001Action
+    7400362: Camera.007|Camera.002Action
+    7400364: Camera.007|Camera.003Action
+    7400366: Camera.007|Camera.004Action
+    7400368: Camera.007|Camera.005Action
+    7400370: Camera.007|Camera.006Action
+    7400372: Camera.007|Camera.007Action
+    7400374: Camera.007|Camera.008Action
+    7400376: Camera.007|Camera.009Action
+    7400378: Camera.007|Camera.010Action
+    7400380: Camera.007|Camera.011Action
+    7400382: Camera.007|Camera.012Action
+    7400384: Camera.007|Camera.013Action
+    7400386: Camera.007|Camera.014Action
+    7400388: Camera.007|Camera.016Action
+    7400390: Camera.007|CameraAction
+    7400392: Camera.008|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400394: Camera.008|Camera.001Action
+    7400396: Camera.008|Camera.002Action
+    7400398: Camera.008|Camera.003Action
+    7400400: Camera.008|Camera.004Action
+    7400402: Camera.008|Camera.005Action
+    7400404: Camera.008|Camera.006Action
+    7400406: Camera.008|Camera.007Action
+    7400408: Camera.008|Camera.008Action
+    7400410: Camera.008|Camera.009Action
+    7400412: Camera.008|Camera.010Action
+    7400414: Camera.008|Camera.011Action
+    7400416: Camera.008|Camera.012Action
+    7400418: Camera.008|Camera.013Action
+    7400420: Camera.008|Camera.014Action
+    7400422: Camera.008|Camera.016Action
+    7400424: Camera.008|CameraAction
+    7400426: Camera.009|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400428: Camera.009|Camera.001Action
+    7400430: Camera.009|Camera.002Action
+    7400432: Camera.009|Camera.003Action
+    7400434: Camera.009|Camera.004Action
+    7400436: Camera.009|Camera.005Action
+    7400438: Camera.009|Camera.006Action
+    7400440: Camera.009|Camera.007Action
+    7400442: Camera.009|Camera.008Action
+    7400444: Camera.009|Camera.009Action
+    7400446: Camera.009|Camera.010Action
+    7400448: Camera.009|Camera.011Action
+    7400450: Camera.009|Camera.012Action
+    7400452: Camera.009|Camera.013Action
+    7400454: Camera.009|Camera.014Action
+    7400456: Camera.009|Camera.016Action
+    7400458: Camera.009|CameraAction
+    7400460: Camera.010|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400462: Camera.010|Camera.001Action
+    7400464: Camera.010|Camera.002Action
+    7400466: Camera.010|Camera.003Action
+    7400468: Camera.010|Camera.004Action
+    7400470: Camera.010|Camera.005Action
+    7400472: Camera.010|Camera.006Action
+    7400474: Camera.010|Camera.007Action
+    7400476: Camera.010|Camera.008Action
+    7400478: Camera.010|Camera.009Action
+    7400480: Camera.010|Camera.010Action
+    7400482: Camera.010|Camera.011Action
+    7400484: Camera.010|Camera.012Action
+    7400486: Camera.010|Camera.013Action
+    7400488: Camera.010|Camera.014Action
+    7400490: Camera.010|Camera.016Action
+    7400492: Camera.010|CameraAction
+    7400494: Camera.011|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400496: Camera.011|Camera.001Action
+    7400498: Camera.011|Camera.002Action
+    7400500: Camera.011|Camera.003Action
+    7400502: Camera.011|Camera.004Action
+    7400504: Camera.011|Camera.005Action
+    7400506: Camera.011|Camera.006Action
+    7400508: Camera.011|Camera.007Action
+    7400510: Camera.011|Camera.008Action
+    7400512: Camera.011|Camera.009Action
+    7400514: Camera.011|Camera.010Action
+    7400516: Camera.011|Camera.011Action
+    7400518: Camera.011|Camera.012Action
+    7400520: Camera.011|Camera.013Action
+    7400522: Camera.011|Camera.014Action
+    7400524: Camera.011|Camera.016Action
+    7400526: Camera.011|CameraAction
+    7400528: Camera.012|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400530: Camera.012|Camera.001Action
+    7400532: Camera.012|Camera.002Action
+    7400534: Camera.012|Camera.003Action
+    7400536: Camera.012|Camera.004Action
+    7400538: Camera.012|Camera.005Action
+    7400540: Camera.012|Camera.006Action
+    7400542: Camera.012|Camera.007Action
+    7400544: Camera.012|Camera.008Action
+    7400546: Camera.012|Camera.009Action
+    7400548: Camera.012|Camera.010Action
+    7400550: Camera.012|Camera.011Action
+    7400552: Camera.012|Camera.012Action
+    7400554: Camera.012|Camera.013Action
+    7400556: Camera.012|Camera.014Action
+    7400558: Camera.012|Camera.016Action
+    7400560: Camera.012|CameraAction
+    7400562: Camera.013|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400564: Camera.013|Camera.001Action
+    7400566: Camera.013|Camera.002Action
+    7400568: Camera.013|Camera.003Action
+    7400570: Camera.013|Camera.004Action
+    7400572: Camera.013|Camera.005Action
+    7400574: Camera.013|Camera.006Action
+    7400576: Camera.013|Camera.007Action
+    7400578: Camera.013|Camera.008Action
+    7400580: Camera.013|Camera.009Action
+    7400582: Camera.013|Camera.010Action
+    7400584: Camera.013|Camera.011Action
+    7400586: Camera.013|Camera.012Action
+    7400588: Camera.013|Camera.013Action
+    7400590: Camera.013|Camera.014Action
+    7400592: Camera.013|Camera.016Action
+    7400594: Camera.013|CameraAction
+    7400596: Camera.014|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400598: Camera.014|Camera.001Action
+    7400600: Camera.014|Camera.002Action
+    7400602: Camera.014|Camera.003Action
+    7400604: Camera.014|Camera.004Action
+    7400606: Camera.014|Camera.005Action
+    7400608: Camera.014|Camera.006Action
+    7400610: Camera.014|Camera.007Action
+    7400612: Camera.014|Camera.008Action
+    7400614: Camera.014|Camera.009Action
+    7400616: Camera.014|Camera.010Action
+    7400618: Camera.014|Camera.011Action
+    7400620: Camera.014|Camera.012Action
+    7400622: Camera.014|Camera.013Action
+    7400624: Camera.014|Camera.014Action
+    7400626: Camera.014|Camera.016Action
+    7400628: Camera.014|CameraAction
+    7400630: Camera.016|Armature|Armature|mixamo.com|Layer0|Base Layer
+    7400632: Camera.016|Camera.001Action
+    7400634: Camera.016|Camera.002Action
+    7400636: Camera.016|Camera.003Action
+    7400638: Camera.016|Camera.004Action
+    7400640: Camera.016|Camera.005Action
+    7400642: Camera.016|Camera.006Action
+    7400644: Camera.016|Camera.007Action
+    7400646: Camera.016|Camera.008Action
+    7400648: Camera.016|Camera.009Action
+    7400650: Camera.016|Camera.010Action
+    7400652: Camera.016|Camera.011Action
+    7400654: Camera.016|Camera.012Action
+    7400656: Camera.016|Camera.013Action
+    7400658: Camera.016|Camera.014Action
+    7400660: Camera.016|Camera.016Action
+    7400662: Camera.016|CameraAction
+    9500000: //RootNode
+    11100000: //RootNode
+    11100002: Armature
+    11100004: Bone.001.L
+    11100006: Bone.001.R
+    11100008: Bone.002
+    11100010: Bone.002.L
+    11100012: Bone.002.L_end
+    11100014: Bone.002.R
+    11100016: Bone.002.R_end
+    11100018: Bone.003
+    11100020: Bone.004
+    11100022: Bone.005
+    11100024: Bone.005_end
+    11100026: Bone.006.L
+    11100028: Bone.006.R
+    11100030: Bone.007.L
+    11100032: Bone.007.R
+    11100034: Bone.008.L
+    11100036: Bone.008.R
+    11100038: Bone.009.L
+    11100040: Bone.009.L_end
+    11100042: Bone.009.R
+    11100044: Bone.009.R_end
+    11100046: Bone.L
+    11100048: Bone.R
+    11100050: Camera
+    11100052: Camera.001
+    11100054: Camera.002
+    11100056: Camera.003
+    11100058: Camera.004
+    11100060: Camera.005
+    11100062: Camera.006
+    11100064: Camera.007
+    11100066: Camera.008
+    11100068: Camera.009
+    11100070: Camera.010
+    11100072: Camera.011
+    11100074: Camera.012
+    11100076: Camera.013
+    11100078: Camera.014
+    11100080: Camera.015
+    11100082: Camera.016
+    11100084: main.003
+    13700000: main.001
+    13700002: main.002
+    13700004: main.003
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head
+    second: {fileID: 2100000, guid: c013c162f7e6842498a543b23cf2f5ae, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

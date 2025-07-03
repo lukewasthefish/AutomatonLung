@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: f1683930e48887644839ffa3d4994149
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone.001.L
+    100004: Bone.001.R
+    100006: Bone.002
+    100008: Bone.002.L
+    100010: Bone.002.L_end
+    100012: Bone.002.R
+    100014: Bone.002.R_end
+    100016: Bone.003
+    100018: Bone.004
+    100020: Bone.005
+    100022: Bone.005_end
+    100024: Bone.006.L
+    100026: Bone.006.R
+    100028: Bone.007.L
+    100030: Bone.007.R
+    100032: Bone.008.L
+    100034: Bone.008.R
+    100036: Bone.009.L
+    100038: Bone.009.L_end
+    100040: Bone.009.R
+    100042: Bone.009.R_end
+    100044: Bone.L
+    100046: Bone.R
+    100048: Camera
+    100050: Cube
+    100052: //RootNode
+    100054: Light
+    100056: main.003
+    400000: Armature
+    400002: Bone.001.L
+    400004: Bone.001.R
+    400006: Bone.002
+    400008: Bone.002.L
+    400010: Bone.002.L_end
+    400012: Bone.002.R
+    400014: Bone.002.R_end
+    400016: Bone.003
+    400018: Bone.004
+    400020: Bone.005
+    400022: Bone.005_end
+    400024: Bone.006.L
+    400026: Bone.006.R
+    400028: Bone.007.L
+    400030: Bone.007.R
+    400032: Bone.008.L
+    400034: Bone.008.R
+    400036: Bone.009.L
+    400038: Bone.009.L_end
+    400040: Bone.009.R
+    400042: Bone.009.R_end
+    400044: Bone.L
+    400046: Bone.R
+    400048: Camera
+    400050: Cube
+    400052: //RootNode
+    400054: Light
+    400056: main.003
+    2300000: Cube
+    3300000: Cube
+    4300000: Cube
+    4300002: main.003
+    7400000: Armature|Armature|UmaStandardJump|Base Layer
+    9500000: //RootNode
+    13700000: main.003
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head
+    second: {fileID: 2100000, guid: c013c162f7e6842498a543b23cf2f5ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 9b4fcbda6f2bde14e9eba2be9b801d64, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

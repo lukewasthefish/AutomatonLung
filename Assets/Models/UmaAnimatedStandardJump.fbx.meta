@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 1e39b5bc41cb8cf44a57b659b6ec0d8f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone.001.L
+    100004: Bone.001.R
+    100006: Bone.002
+    100008: Bone.002.L
+    100010: Bone.002.L_end
+    100012: Bone.002.R
+    100014: Bone.002.R_end
+    100016: Bone.003
+    100018: Bone.004
+    100020: Bone.005
+    100022: Bone.005_end
+    100024: Bone.006.L
+    100026: Bone.006.R
+    100028: Bone.007.L
+    100030: Bone.007.R
+    100032: Bone.008.L
+    100034: Bone.008.R
+    100036: Bone.009.L
+    100038: Bone.009.L_end
+    100040: Bone.009.R
+    100042: Bone.009.R_end
+    100044: Bone.L
+    100046: Bone.R
+    100048: main.003
+    100050: //RootNode
+    100052: Camera
+    100054: Cube
+    100056: Light
+    400000: Armature
+    400002: Bone.001.L
+    400004: Bone.001.R
+    400006: Bone.002
+    400008: Bone.002.L
+    400010: Bone.002.L_end
+    400012: Bone.002.R
+    400014: Bone.002.R_end
+    400016: Bone.003
+    400018: Bone.004
+    400020: Bone.005
+    400022: Bone.005_end
+    400024: Bone.006.L
+    400026: Bone.006.R
+    400028: Bone.007.L
+    400030: Bone.007.R
+    400032: Bone.008.L
+    400034: Bone.008.R
+    400036: Bone.009.L
+    400038: Bone.009.L_end
+    400040: Bone.009.R
+    400042: Bone.009.R_end
+    400044: Bone.L
+    400046: Bone.R
+    400048: main.003
+    400050: //RootNode
+    400052: Camera
+    400054: Cube
+    400056: Light
+    2300000: Cube
+    3300000: Cube
+    4300000: main.003
+    4300002: Cube
+    7400000: Armature|UmaStandardJump
+    7400002: UmaStandardJump
+    9500000: //RootNode
+    13700000: main.003
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head
+    second: {fileID: 2100000, guid: c013c162f7e6842498a543b23cf2f5ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 9b4fcbda6f2bde14e9eba2be9b801d64, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: UmaStandardJump
+      takeName: UmaStandardJump
+      firstFrame: 0
+      lastFrame: 678
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone.002
+        weight: 1
+      - path: Bone.002/Bone.003
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.004/Bone.005
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.006.L
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.006.L/Bone.007.L
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.006.L/Bone.007.L/Bone.008.L
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.006.L/Bone.007.L/Bone.008.L/Bone.009.L
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.006.R
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.006.R/Bone.007.R
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.006.R/Bone.007.R/Bone.008.R
+        weight: 1
+      - path: Bone.002/Bone.003/Bone.006.R/Bone.007.R/Bone.008.R/Bone.009.R
+        weight: 1
+      - path: Bone.L
+        weight: 1
+      - path: Bone.L/Bone.001.L
+        weight: 1
+      - path: Bone.L/Bone.001.L/Bone.002.L
+        weight: 1
+      - path: Bone.R
+        weight: 1
+      - path: Bone.R/Bone.001.R
+        weight: 1
+      - path: Bone.R/Bone.001.R/Bone.002.R
+        weight: 1
+      - path: main.003
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

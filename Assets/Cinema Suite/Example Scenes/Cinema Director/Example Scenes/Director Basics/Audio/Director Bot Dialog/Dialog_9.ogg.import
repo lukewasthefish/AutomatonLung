@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bp4nxfj535tpv"
+path="res://.godot/imported/Dialog_9.ogg-f11ba3b58ce18010be247601cb149d67.oggvorbisstr"
+
+[deps]
+
+source_file="res://AutomatonLungPC/Assets/Cinema Suite/Example Scenes/Cinema Director/Example Scenes/Director Basics/Audio/Director Bot Dialog/Dialog_9.ogg"
+dest_files=["res://.godot/imported/Dialog_9.ogg-f11ba3b58ce18010be247601cb149d67.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

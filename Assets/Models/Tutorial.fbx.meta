@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 4997e16e18cf32e408007b94438b34bb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ankleLT
+    100002: ankleRT
+    100004: Armature
+    100006: bicepLT
+    100008: bicepRT
+    100010: calfLT
+    100012: calfRT
+    100014: Cube
+    100016: distanceDimension1
+    100018: fixedHarold:Mesh
+    100020: footLT
+    100022: footRT
+    100024: forearmLT
+    100026: forearmRT
+    100028: head
+    100030: headEnd
+    100032: headEnd_end
+    100034: joint3
+    100036: joint3.001
+    100038: joint3.001_end
+    100040: joint3_end
+    100042: locator1
+    100044: locator2
+    100046: locator3
+    100048: metaCarpalLT
+    100050: metaCarpalRT
+    100052: neck
+    100054: pelivs
+    100056: phalangeLT
+    100058: phalangeLT_end
+    100060: phalangeRT
+    100062: phalangeRT_end
+    100064: shoulderLT
+    100066: shoulderRT
+    100068: spine0
+    100070: spine1
+    100072: spine3
+    100074: ThighLT
+    100076: ThighRT
+    100078: thumbLT
+    100080: thumbLT_end
+    100082: thumbRT
+    100084: thumbRT_end
+    100086: //RootNode
+    100088: wristLT
+    100090: wristRT
+    100092: headEnd_end_end
+    100094: joint3.001_end_end
+    100096: joint3_end_end
+    100098: phalangeLT_end_end
+    100100: phalangeRT_end_end
+    100102: thumbLT_end_end
+    100104: thumbRT_end_end
+    400000: ankleLT
+    400002: ankleRT
+    400004: Armature
+    400006: bicepLT
+    400008: bicepRT
+    400010: calfLT
+    400012: calfRT
+    400014: Cube
+    400016: distanceDimension1
+    400018: fixedHarold:Mesh
+    400020: footLT
+    400022: footRT
+    400024: forearmLT
+    400026: forearmRT
+    400028: head
+    400030: headEnd
+    400032: headEnd_end
+    400034: joint3
+    400036: joint3.001
+    400038: joint3.001_end
+    400040: joint3_end
+    400042: locator1
+    400044: locator2
+    400046: locator3
+    400048: metaCarpalLT
+    400050: metaCarpalRT
+    400052: neck
+    400054: pelivs
+    400056: phalangeLT
+    400058: phalangeLT_end
+    400060: phalangeRT
+    400062: phalangeRT_end
+    400064: shoulderLT
+    400066: shoulderRT
+    400068: spine0
+    400070: spine1
+    400072: spine3
+    400074: ThighLT
+    400076: ThighRT
+    400078: thumbLT
+    400080: thumbLT_end
+    400082: thumbRT
+    400084: thumbRT_end
+    400086: //RootNode
+    400088: wristLT
+    400090: wristRT
+    400092: headEnd_end_end
+    400094: joint3.001_end_end
+    400096: joint3_end_end
+    400098: phalangeLT_end_end
+    400100: phalangeRT_end_end
+    400102: thumbLT_end_end
+    400104: thumbRT_end_end
+    2300000: Cube
+    2300002: fixedHarold:Mesh
+    3300000: Cube
+    3300002: fixedHarold:Mesh
+    4300000: Cube
+    4300002: fixedHarold:Mesh
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: fbc1ce889bc70b64b8d36a58171914b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fixedHarold_Man_003
+    second: {fileID: 2100000, guid: 2d9a0773d4828a24fbfb8ee711225694, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

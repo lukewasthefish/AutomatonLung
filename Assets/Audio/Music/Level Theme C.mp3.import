@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cvf4c3kw8m37p"
+path="res://.godot/imported/Level Theme C.mp3-95a9ef08c0f91cbea00964a6dda631ce.mp3str"
+
+[deps]
+
+source_file="res://AutomatonLungPC/Assets/Audio/Music/Level Theme C.mp3"
+dest_files=["res://.godot/imported/Level Theme C.mp3-95a9ef08c0f91cbea00964a6dda631ce.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

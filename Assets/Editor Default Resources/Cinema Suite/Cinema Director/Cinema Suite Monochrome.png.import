@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dnq2cn4riqvvh"
+path="res://.godot/imported/Cinema Suite Monochrome.png-e7d287e46f3ec738c69b8b3f01f09340.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://AutomatonLungPC/Assets/Editor Default Resources/Cinema Suite/Cinema Director/Cinema Suite Monochrome.png"
+dest_files=["res://.godot/imported/Cinema Suite Monochrome.png-e7d287e46f3ec738c69b8b3f01f09340.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1
