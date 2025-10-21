@@ -42,7 +42,7 @@ public class BeetleCollision : MonoBehaviour {
             isTumbling = true;
 
             thisRigidbody.useGravity = true;
-            thisRigidbody.drag = 0f;
+            thisRigidbody.linearDamping = 0f;
 
             thisRigidbody.AddForce(-transform.forward * 5000f + (Vector3.up * 50f), ForceMode.Force);
             //thisRigidbody.AddTorque(Vector3.one * 50f, ForceMode.Impulse);
